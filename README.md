@@ -1,2 +1,2 @@
-# Augist1st
+# August1st
 ReadMe
